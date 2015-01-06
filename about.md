@@ -1,11 +1,11 @@
 ---
-layout: page
-title: About
+layout:    page
+title:     About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Maximo Mena was born in Lima, Peru. He moved to Phoenix, Arizona, in 2003 to attend Arizona State University (ASU), where he got a bachelor's degree in Computer Systems Technology.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Maximo's passion for the web was manifested early in his college career as he often found opportunities to build websites. In 2009 he got a part-time job as a web developer at ASU’s University Technology Office where he learned Drupal. Within 6 months of starting his part-time job, he was offered full-time employment. He is currently a full-time freelancer.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Maximo’s first language is Spanish. His parents and younger brother live in Lima, where he travels every year to visit them.
