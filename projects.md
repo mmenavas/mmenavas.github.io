@@ -7,3 +7,4 @@ permalink: /projects/
 The following are my personal projects:
 
 - [Fruit Matcher]({{ site.url }}/memory-game)
+- [Solfege memory test]({{ site.url }}/solfege-practice)
