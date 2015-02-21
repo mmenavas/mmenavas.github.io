@@ -22,7 +22,7 @@ While this step is not required, if you're going to delegate the site maintenanc
 Create a repository with your GitHub account and name it [account-name].github.io. If you created an Organization, name the account [organization-name.github.io]. You can also create a team and grant this team write-access to your new repository. This will allow you to add other people to this team, who will be able to update your site.
 
 5. ###Commit and push your website files to the organization's repository
-Download the GitHub app or use the command line to push your website files to your GitHub repository.
+Download the GitHub app (available for [Mac](https://mac.github.com/) and [Windows](https://windows.github.com/)) or use the command line to push your website files to your GitHub repository.
 
 6. ###Add CNAME file to repository
 Additionally, create a file that includes your custom domain name prefixed with 'www.' (i.e. www.example.com). Name this file 'CNAME' and push to repository.
