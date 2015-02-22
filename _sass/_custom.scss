@@ -1,4 +1,33 @@
+body {
+  background-image:url(/images/bg_pattern.png);
+}
+
 iframe {
   width:100%;
   margin-bottom: 15px;
+}
+
+.site-header {
+  background-color:#333;
+}
+.site-title,
+.site-title:visited,
+.site-nav .page-link {
+  color:#fff;
+}
+@media screen and (max-width: 600px) {
+  .site-nav .page-link {
+    color:#111;
+  }
+}
+
+.post-list li {
+  background-color:#f8f8f8;
+  padding:20px;
+  margin-bottom:10px;
+}
+
+.post {
+  padding:40px 20px 20px;
+  background-color:#fff;
 }
