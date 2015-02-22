@@ -8,13 +8,16 @@ iframe {
 }
 
 .site-header {
-  background-color:#333;
+  background-color:#358;
+  border: none;
 }
+
 .site-title,
 .site-title:visited,
 .site-nav .page-link {
   color:#fff;
 }
+
 @media screen and (max-width: 600px) {
   .site-nav .page-link {
     color:#111;
