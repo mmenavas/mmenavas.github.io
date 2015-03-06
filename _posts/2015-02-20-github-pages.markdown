@@ -4,7 +4,7 @@ title:    "Hosting a Static Site on GitHub Pages"
 category: Web-Development 
 ---
 
-I believe in solutions that are tailored to a client's needs, and since small businesses often do not need a blog, process data or update content regularly, a brochure site or a landing page is sufficent to meet a marketing requirement. In short, not every small business needs a WordPress site or a CMS for that matter.
+I believe in solutions that are tailored to a client's needs, and since small businesses often do not need to have a blog, process data or update content on a regular basis, a brochure site or a landing page is sufficent to meet a marketing requirement. In short, not every small business needs a WordPress site or a CMS for that matter.
 
 Below I explain in 8 steps how to host a static website on [GitHub Pages](https://pages.github.com/) using a custom domain name. Did I mention it's free of charge?
 
