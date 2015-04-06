@@ -4,7 +4,7 @@ title:     Projects
 permalink: /projects/
 ---
 
-The following are my personal projects:
+The following are my personal projects/games:
 
 - [Fruit Matcher (Memory game)]({{ site.url }}/memory-game) - [Source code](http://github.com/mmenavas/memory-game)
 - [Study Buddy (Quizz builder)]({{ site.url }}/study-buddy) - [Source code](http://github.com/mmenavas/study-buddy)
